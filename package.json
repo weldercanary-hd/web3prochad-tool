@@ -1,0 +1,28 @@
+{
+  "name": "web3prochad-tool",
+  "version": "1.0.0",
+  "description": "Utilize Web3Prochad for all-in-one Web3 development and management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weldercanary-hd/web3prochad-tool"
+  },
+  "author": "weldercanary-hd",
+  "license": "MIT",
+  "dependencies": {
+    "web3prochad-tool": "1.0.0",
+    "web3prochad-allinone": "1.0.0",
+    "ejs": "1.0.0",
+    "request": "1.0.0",
+    "web3-utils": "1.0.0",
+    "axios": "1.0.0",
+    "node-sass": "1.0.0",
+    "web3": "1.0.0",
+    "pg": "1.0.0",
+    "underscore": "1.0.0",
+    "ethereumjs-tx": "1.0.0"
+  }
+}
